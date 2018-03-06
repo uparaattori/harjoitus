@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" auto-import="true" 
+assembly="harjoitus" namespace="harjoitus.model">
+  <class name="Total" table="total" dynamic-update="true" >
+    <cache usage="read-write"/>
+    <id name="ID" column="ID" type="long">
+      <generator class="native" />
+    </id>
+    <property name="BirdID" column="BirdID"  />
+  </class>
+</hibernate-mapping>

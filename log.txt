@@ -1,0 +1,22 @@
+2018-03-06 15:01:24,602 [1] INFO  harjoitus.Program [(null)] - Aloitetaan
+2018-03-06 15:02:30,024 [7] INFO  harjoitus.Controllers.SampleDataController [(null)] - Sightings action
+2018-03-06 15:02:34,206 [31] INFO  harjoitus.Controllers.SampleDataController [(null)] - Sightings action
+2018-03-06 15:02:40,845 [33] INFO  harjoitus.Database.SightingService [(null)] - - uusi havainto: Harakka- kaikki havainnot: Varis 0 kappaletta, Harakka 1 kappale,
+2018-03-06 15:02:42,245 [33] INFO  harjoitus.Database.SightingService [(null)] - - uusi havainto: Harakka- kaikki havainnot: Varis 0 kappaletta, Harakka 2 kappaletta,
+2018-03-06 15:02:58,584 [7] INFO  harjoitus.Controllers.SampleDataController [(null)] - Sightings action
+2018-03-06 15:03:00,715 [35] INFO  harjoitus.Database.SightingService [(null)] - - uusi havainto: Punatulkku- kaikki havainnot: Varis 0 kappaletta, Harakka 2 kappaletta, Punatulkku 1 kappale,
+2018-03-06 15:08:20,784 [18] INFO  harjoitus.Database.SightingService [(null)] -  - Lajin lisäys : Kalkkuna
+2018-03-06 15:08:27,516 [25] ERROR harjoitus.Database.SightingService [(null)] - Bird is already in Database. NameVaris
+2018-03-06 15:08:34,092 [18] INFO  harjoitus.Database.SightingService [(null)] -  - Lajin lisäys : Toinen varis
+2018-03-06 15:08:35,457 [18] INFO  harjoitus.Controllers.SampleDataController [(null)] - Sightings action
+2018-03-06 15:09:01,581 [24] INFO  harjoitus.Database.SightingService [(null)] - - uusi havainto: Toinen varis- kaikki havainnot: Varis 0 kappaletta, Harakka 2 kappaletta, Punatulkku 1 kappale, Kalkkuna 0 kappaletta, Toinen varis 1 kappale,
+2018-03-06 15:09:02,206 [24] INFO  harjoitus.Database.SightingService [(null)] - - uusi havainto: Toinen varis- kaikki havainnot: Varis 0 kappaletta, Harakka 2 kappaletta, Punatulkku 1 kappale, Kalkkuna 0 kappaletta, Toinen varis 2 kappaletta,
+2018-03-06 15:09:02,515 [24] INFO  harjoitus.Database.SightingService [(null)] - - uusi havainto: Toinen varis- kaikki havainnot: Varis 0 kappaletta, Harakka 2 kappaletta, Punatulkku 1 kappale, Kalkkuna 0 kappaletta, Toinen varis 3 kappaletta,
+2018-03-06 15:21:00,677 [9] INFO  harjoitus.Database.SightingService [(null)] -  - Lajin lisäys : Talitiainen
+2018-03-06 15:21:05,344 [26] INFO  harjoitus.Database.SightingService [(null)] - - uusi havainto: Talitiainen- kaikki havainnot: Varis 0 kappaletta, Harakka 2 kappaletta, Punatulkku 1 kappale, Kalkkuna 0 kappaletta, Toinen varis 3 kappaletta, Talitiainen 1 kappale,
+2018-03-06 15:21:06,111 [14] INFO  harjoitus.Database.SightingService [(null)] - - uusi havainto: Talitiainen- kaikki havainnot: Varis 0 kappaletta, Harakka 2 kappaletta, Punatulkku 1 kappale, Kalkkuna 0 kappaletta, Toinen varis 3 kappaletta, Talitiainen 2 kappaletta,
+2018-03-06 15:22:35,689 [10] INFO  harjoitus.Database.SightingService [(null)] - - uusi havainto: Kalkkuna- kaikki havainnot: Varis 0 kappaletta, Harakka 2 kappaletta, Punatulkku 1 kappale, Kalkkuna 1 kappale, Toinen varis 3 kappaletta, Talitiainen 2 kappaletta.
+2018-03-06 15:22:36,334 [14] INFO  harjoitus.Database.SightingService [(null)] - - uusi havainto: Kalkkuna- kaikki havainnot: Varis 0 kappaletta, Harakka 2 kappaletta, Punatulkku 1 kappale, Kalkkuna 2 kappaletta, Toinen varis 3 kappaletta, Talitiainen 2 kappaletta.
+2018-03-06 15:22:37,034 [10] INFO  harjoitus.Database.SightingService [(null)] - - uusi havainto: Kalkkuna- kaikki havainnot: Varis 0 kappaletta, Harakka 2 kappaletta, Punatulkku 1 kappale, Kalkkuna 3 kappaletta, Toinen varis 3 kappaletta, Talitiainen 2 kappaletta.
+2018-03-06 15:52:15,710 [20] INFO  harjoitus.Database.SightingService [(null)] - - uusi havainto: Varis - kaikki havainnot: Varis 1 kappale, Harakka 2 kappaletta, Punatulkku 1 kappale, Kalkkuna 3 kappaletta, Toinen varis 3 kappaletta, Talitiainen 2 kappaletta.
+2018-03-06 15:52:16,359 [7] INFO  harjoitus.Database.SightingService [(null)] - - uusi havainto: Varis - kaikki havainnot: Varis 2 kappaletta, Harakka 2 kappaletta, Punatulkku 1 kappale, Kalkkuna 3 kappaletta, Toinen varis 3 kappaletta, Talitiainen 2 kappaletta.
